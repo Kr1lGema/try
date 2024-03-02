@@ -1,0 +1,50 @@
+body{
+	background-color: wheat;
+	background-image: url(https://pa1.aminoapps.com/6920/31d3a6135e1b8d3143e33f04bede2dabb649eb61r1-251-320_hq.gif);
+	background-size: 200px;
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+	background-attachment: fixed;
+
+p{
+	font-size: 0.8in;
+	background-image: url(https://unblast.com/wp-content/uploads/2021/01/Space-Background-Images.jpg);
+    background-size: cover;
+    color: whitesmoke;
+    text-align: center;
+}
+
+div{
+	height: 500px;
+	width: 500px;
+	margin: 20px;
+	float: left;
+
+}
+#d1{
+	background-image: url(https://img.freepik.com/free-photo/a-painting-of-a-mountain-lake-with-a-mountain-in-the-background_188544-9126.jpg);
+	background-size: cover;
+	border: ridge 20px cyan;
+}
+}
+#d2{
+	background-image: url(https://i.gifer.com/origin/89/89e3e06e079aedd484cd6d05ce5684f6_w200.gif);
+	background-size: 500px;
+	background-repeat: no-repeat;
+	background-position: 50% 0%;
+	border: solid 20px;
+	border-image: linear-gradient(cyan, blue) 30;
+}
+
+#img1{
+	width: 50%;
+    margin: auto;
+}
+
+#img2{
+	display: block;
+	margin: auto;
+	width: 50%;
+	border-radius: 40%;
+	box-shadow: 20px 20px 50px darkslategrey;
+}

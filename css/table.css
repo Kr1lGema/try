@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+	background-color: lemonchiffon;
+}
+p{
+	font-size: 50px;
+	font-family: "Jost", sans-serif;
+	text-align: center;
+	color: royalblue;
+}
+table{
+	border: double 5px green;
+	width: 50%;
+	font-size: 24px;
+	border-collapse: separate;
+	margin: auto;
+
+}
+th,td{
+	border: solid 2px salmon;
+	width: 25%;
+	height: 1cm;
+}
+tr:hover{
+	background-color: lightgrey;
+}
+td:hover{
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: 700;
+	color: white;
+	font-size: 1.5 em;
+	background-image: url(https://i.pinimg.com/originals/e6/f8/0b/e6f80be8122d7019c37b39b02dd6ec2c.gif);
+}
+tr:nth-child(odd){
+	background-color: lightpink;
+}
+tr:nth-child(even){
+	background-color: lightsteelblue;
+}
+.sc{
+	text-align: center;
+	vertical-align: middle;
+	color: royalblue;
+}
+caption{
+	font-size: 50px;
+	color: white;
+	background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, purple);
+}

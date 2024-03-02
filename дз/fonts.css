@@ -1,0 +1,98 @@
+body{
+	background-color: lightgoldenrodyellow;
+}
+
+p{
+	font-size: 50px;
+}
+
+.p1{
+	background: linear-gradient(blue,blueviolet,violet);
+	color: #fff;
+	text-align: center;
+}
+
+.p2{
+	font-family: "Montserrat Alternates", sans-serif;;
+	font-weight: 700;
+	text-decoration: underline;
+	color: maroon;
+}
+
+.p3{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: underline;
+	text-underline-position: under;
+	text-decoration-color: aqua;
+	text-decoration-style: wavy;
+}
+
+.p4{
+	font-family: "Lucida Console", Courier, monospace;
+	font-style: italic;
+	text-decoration: line-through;
+	text-decoration-color: indianred;
+	text-decoration-style: dotted;
+}
+
+.p5{
+	font-family: "Lucida Handwriting", cursive;
+	text-shadow: 2px -2px palevioletred;
+	text-decoration: underline;
+	text-underline-position: under;
+	text-decoration-color: pink;
+	text-decoration-style: double;
+}
+
+.p6{
+	font-family: fantasy;
+	text-transform: capitalize;
+	text-shadow: 2px -2px 10px violet;
+	color: pink;
+}
+
+.p7{
+	font-family: 'Rubik Glitch Pop', system-ui;;
+	text-transform: uppercase;
+	text-shadow: 0px 0px 10px purple;
+	color: darkslateblue;
+}
+
+.p8{
+	font-family: 'Russo One', sans-serif;
+	text-transform: lowercase;
+	color: navajowhite;
+}
+
+.p9{
+	font-family: 'Caveat', cursive;
+	color: deepskyblue;
+
+}
+
+.p10{
+	font-family: 'Russo One', sans-serif;
+	color: blueviolet;
+}
+
+.p11{
+	font-family: "Montserrat Alternates", sans-serif;
+	font-weight: 800;
+	color: crimson;
+}
+.s2{
+	color: blue;
+	text-decoration: underline;
+}
+
+.s1{
+	font-family: "Ruslan Display", sans-serif;;
+	font-size: 2em;
+	color: magenta;
+}
+
+.s3{
+	text-decoration: underline;
+	text-decoration-color: darkslateblue;
+	text-decoration-style: dashed;
+}

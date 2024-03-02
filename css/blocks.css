@@ -1,0 +1,94 @@
+body{
+	background-color: coral;
+}
+p{
+	font-size: 50px;
+	background-color: green;
+}
+.p1{
+	display: inline-block;
+}
+.s1{
+	border: dotted 2px red;
+	display: block;
+}
+#first{
+	width: 500px;
+	height: 500px;
+	background-color: blue;
+	border: ridge 20px violet;
+	font-size: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-width: 20px;
+	border-left: dotted yellow 20px;
+	border-right: dashed olive 20px;
+	border-bottom: groove red 20px;
+	border-top: ridge orange 20px;
+	border-radius: 10% 20%;
+}
+#second{
+	width: 700px;
+	height: 700px;
+	background-color: purple;
+	border: groove 20px blue;
+	font-size: 50px;
+	text-align: center;
+	padding: 50px;
+	border-style: dotted dashed;
+	border-color: red orange yellow pink;
+	border-radius: 5% 10% 15% 20%;
+}
+#third,#forth{
+	width: 800px;
+	height: 200px;
+	border: dashed 10px pink;
+	margin: 20px;
+}
+#third{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: darkslateblue;
+	border-radius: 50%;
+	border-color: slateblue steelblue skyblue;
+}
+#forth{
+	border-style: dotted;
+	border-color: firebrick;
+	display: flex;
+	align-items: center;
+	border-radius: 50% 0% 50% 0%;
+	margin: 50px;
+}
+
+
+#fifth{
+	width: 600px;
+	height: 500px;
+	padding: 20px;
+	padding-left: 30px;
+	text-align: center;
+	border: dashed 20px slateblue;
+	margin: 40px;
+	background-color: steelblue;
+}
+#sixth{
+	width: 500px;
+	height: 400px;
+	padding: 20px;
+	padding-left: 30px;
+	text-align: center;
+	border: ridge 20px steelblue;
+	background-color: slateblue;
+}
+#seventh{
+	width: 400px;
+	height: 300px;
+	padding: 20px;
+	padding-left: 30px;
+	text-align: center;
+	border: ridge 20px slateblue;
+	background-color: darkslateblue;
+}

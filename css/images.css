@@ -1,0 +1,46 @@
+body{
+	background-color: skyblue;
+	background-image: url(https://media.idownloadblog.com/wp-content/uploads/2016/11/Animated-GIF-Banana.gif);
+	background-size: 200px;
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+	background-attachment: fixed;
+}
+
+p{
+	font-size: 0.8in;
+	background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg);
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+div{
+	height: 500px;
+	width: 500px;
+	margin: 20px;
+}
+#d1{
+	background-image: url(https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/image/rDtN98Qoishumwih/summer-background-abstract-background-wallpaper-use-for-presentation_HDDYoJOhMg_thumb.jpg);
+	background-size: cover;
+	border: ridge 20px brown;
+}
+}
+#d2{
+	background-image: url(https://media.idownloadblog.com/wp-content/uploads/2016/11/Animated-GIF-Banana.gif);
+	background-size: cover;
+	border: solid 30px;
+	border-image: linear-gradient(yellow, violet) 30;
+}
+
+#img1{
+	width: 50%;
+}
+
+#img2{
+	display: block;
+	margin: auto;
+	width: 50%;
+	border-radius: 50%;
+	box-shadow: 10px 10px 50px black;
+}
